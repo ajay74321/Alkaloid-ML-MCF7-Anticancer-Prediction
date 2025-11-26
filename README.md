@@ -105,18 +105,6 @@ Models were evaluated using:
 
 ---
 
-## 🥇 **Best Result**
-
-**Gradient Boosting Regressor** (using **2D descriptors**)
-
-* **R²:** 0.5835
-* **RMSE:** 0.7064
-* **Accuracy:** 89.32%
-* **MAPE:** 9.67
-* **MDAPE:** 6.64 
-
----
-
 ## 📊 Sample Result Table
 
 | Model                       | Features Used     | R² Score | RMSE | MAPE  | MDAPE |
