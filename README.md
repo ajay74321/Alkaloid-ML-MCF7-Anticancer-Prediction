@@ -116,27 +116,4 @@ Models were evaluated using:
 
 ---
 
-## 🎯 **Future Work**
-
-* Deploy model on a web server
-* Extend prediction models to other breast cancer cell lines (e.g., **T-47D**)
-* Integrate deep learning architectures (CNN, RNN)
-* Add docking + ADMET analysis for experimental validation 
-
----
-
-## 🖼 **Project Logo (ASCII Version)**
-
-```
-        __    _      _       _     _     _ 
-   /\  /__\  | | ___| |_ ___| |__ (_)___| |
-  /  \/ \//  | |/ _ \ __/ __| '_ \| / __| |
- / /\  _  \  | |  __/ || (__| | | | \__ \_|
- \_\ \/ \_/  |_|\___|\__\___|_| |_|_|___(_)
-                                           
-   Alkaloid ML – MCF-7 Anticancer Prediction
-```
-
----
-
 
