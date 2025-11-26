@@ -4,8 +4,6 @@ A machine learning project developed to predict the anticancer potency of alkalo
 
 # **Determination of Anti-Cancer Potency of Alkaloids Against MCF-7 Breast Cancer Cells Using Machine Learning**
 
-*Based on project slides* 
-
 ---
 
 ## 🔰 **Shields.io Badges**
