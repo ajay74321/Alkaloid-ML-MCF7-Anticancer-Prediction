@@ -40,7 +40,7 @@ Structurally, they contain at least one basic nitrogen atom within a heterocycli
 ## 🧪 **Workflow Overview**
 
 A structured computational pipeline was used to clean, prepare, and model alkaloid bioactivity data.
-<img width="2368" height="1792" alt="Gemini_Generated_Image_rwt5d4rwt5d4rwt5" src="https://github.com/user-attachments/assets/2ecba591-fb35-4f21-bfb3-e95448139177" />
+<img width="600" alt="Gemini_Generated_Image" src="https://github.com/user-attachments/assets/2ecba591-fb35-4f21-bfb3-e95448139177" />
 
 ---
 
