@@ -6,8 +6,6 @@ A machine learning project developed to predict the anticancer potency of alkalo
 
 ---
 
-## 🔰 **Shields.io Badges**
-
 <p>
   <img src="https://img.shields.io/badge/Python-ML-blue" />
   <img src="https://img.shields.io/badge/ScikitLearn-Modeling-orange" />
